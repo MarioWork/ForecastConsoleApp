@@ -1,2 +1,3 @@
-# SimpleForecastConsoleApp
- A simple Forcast console app made in c#.
+# Simple Forecast Console App 
+This project was all created with C# on a console version of .NET and IPMA API.
+This was a project to start learning how to use API on .NET
