@@ -1,5 +1,14 @@
 # Simple Forecast Console App 
-This project was all created with C# on a console version of .NET and IPMA API.
-This was a project to start learning how to use API on .NET
+This project consists of a console application that shows the current and future Forecast.
 
-IPMA API: https://api.ipma.pt/
+## Technologies
++ C#
++ .NET
++ OOP
++ HTTP
+
+## WebAPI Consumed
+[IPMA API](https://api.ipma.pt/)
+
+## Collaborators
+[Mario Vieira](https://github.com/MarioWork)
